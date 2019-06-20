@@ -17,7 +17,7 @@
                   "type": "object",
                   "default": {
                     "extensions": [
-                      "tex2jax.js"
+                      "tex2jax.js", "[a11y]/accessibility-menu.js"
                     ],
                     "jax": [
                       "input/TeX",
